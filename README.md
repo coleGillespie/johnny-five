@@ -26,9 +26,9 @@
 ## Setup and Assemble Arduino
 
 - Download Arduino IDE
-  - [OSX](http://arduino.googlecode.com/files/arduino-1.0-macosx.zip)
-  - [Linux 32 bit](http://arduino.googlecode.com/files/arduino-1.0-linux.tgz)
-  - [Linux 64 bit](http://arduino.googlecode.com/files/arduino-1.0-linux64.tgz)
+  - [OSX](http://arduino.googlecode.com/files/arduino-1.0.1-macosx.zip)
+  - [Linux 32 bit](http://arduino.googlecode.com/files/arduino-1.0.1-linux.tgz)
+  - [Linux 64 bit](http://arduino.googlecode.com/files/arduino-1.0.1-linux64.tgz)
   - Windows support coming soon.
 - Plug in your Arduino or Arduino compatible microcontroller via USB
 - Open the Arduino IDE, select: File > Examples > Firmata > StandardFirmata
@@ -93,18 +93,14 @@ board.on("ready", function() {
 - [Claw](https://github.com/rwldrn/johnny-five/blob/master/docs/claw.md)
 - [Continuous Clock](https://github.com/rwldrn/johnny-five/blob/master/docs/continuous-clock.md)
 - [Continuous](https://github.com/rwldrn/johnny-five/blob/master/docs/continuous.md)
-- [Danger](https://github.com/rwldrn/johnny-five/blob/master/docs/danger.md)
-- [Hmc5883l](https://github.com/rwldrn/johnny-five/blob/master/docs/hmc5883l.md)
 - [Ir Motion](https://github.com/rwldrn/johnny-five/blob/master/docs/ir-motion.md)
 - [Ir Proximity](https://github.com/rwldrn/johnny-five/blob/master/docs/ir-proximity.md)
 - [Ir Reflect](https://github.com/rwldrn/johnny-five/blob/master/docs/ir-reflect.md)
-- [Ir](https://github.com/rwldrn/johnny-five/blob/master/docs/ir.md)
 - [Joystick Claw](https://github.com/rwldrn/johnny-five/blob/master/docs/joystick-claw.md)
 - [Joystick Laser](https://github.com/rwldrn/johnny-five/blob/master/docs/joystick-laser.md)
 - [Joystick Motor Led](https://github.com/rwldrn/johnny-five/blob/master/docs/joystick-motor-led.md)
 - [Joystick](https://github.com/rwldrn/johnny-five/blob/master/docs/joystick.md)
 - [Laser](https://github.com/rwldrn/johnny-five/blob/master/docs/laser.md)
-- [Lcd](https://github.com/rwldrn/johnny-five/blob/master/docs/lcd.md)
 - [Led Fade](https://github.com/rwldrn/johnny-five/blob/master/docs/led-fade.md)
 - [Led On Off](https://github.com/rwldrn/johnny-five/blob/master/docs/led-on-off.md)
 - [Led Pulse](https://github.com/rwldrn/johnny-five/blob/master/docs/led-pulse.md)
@@ -122,11 +118,9 @@ board.on("ready", function() {
 - [Nodeconf Radar](https://github.com/rwldrn/johnny-five/blob/master/docs/nodeconf-radar.md)
 - [Nodeconf Slider](https://github.com/rwldrn/johnny-five/blob/master/docs/nodeconf-slider.md)
 - [Nunchuk](https://github.com/rwldrn/johnny-five/blob/master/docs/nunchuk.md)
-- [Nxt](https://github.com/rwldrn/johnny-five/blob/master/docs/nxt.md)
 - [Piezo](https://github.com/rwldrn/johnny-five/blob/master/docs/piezo.md)
 - [Ping](https://github.com/rwldrn/johnny-five/blob/master/docs/ping.md)
 - [Potentiometer](https://github.com/rwldrn/johnny-five/blob/master/docs/potentiometer.md)
-- [Propose](https://github.com/rwldrn/johnny-five/blob/master/docs/propose.md)
 - [Proximity](https://github.com/rwldrn/johnny-five/blob/master/docs/proximity.md)
 - [Radar Client](https://github.com/rwldrn/johnny-five/blob/master/docs/radar-client.md)
 - [Radar](https://github.com/rwldrn/johnny-five/blob/master/docs/radar.md)
@@ -145,7 +139,6 @@ board.on("ready", function() {
 - [Slider Log](https://github.com/rwldrn/johnny-five/blob/master/docs/slider-log.md)
 - [Slider Pan](https://github.com/rwldrn/johnny-five/blob/master/docs/slider-pan.md)
 - [Slider Servo Control](https://github.com/rwldrn/johnny-five/blob/master/docs/slider-servo-control.md)
-- [Socket](https://github.com/rwldrn/johnny-five/blob/master/docs/socket.md)
 - [Sonar Scan](https://github.com/rwldrn/johnny-five/blob/master/docs/sonar-scan.md)
 - [Sonar](https://github.com/rwldrn/johnny-five/blob/master/docs/sonar.md)
 
